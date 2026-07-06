@@ -1,0 +1,52 @@
+AI Guardrails Maturity Model
+Copyright (c) 2026 Mike Gualtieri
+https://www.mike-gualtieri.com · mike.gualtieri@gmail.com
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0). See LICENSE for terms.
+
+-------------------------------------------------------------------------------
+What this license covers
+-------------------------------------------------------------------------------
+
+The CC BY 4.0 license covers this work's original contribution:
+
+  - the maturity leveling — the sequencing of guardrail controls across
+    Levels 1 through 4;
+  - the consolidation of overlapping industry guidance into a single,
+    non-redundant catalog of controls;
+  - the AI-specificity discipline that distinguishes a genuine AI guardrail
+    from general security practice; and
+  - the prose, structure, and cross-linking written for this repository.
+
+-------------------------------------------------------------------------------
+What this license does NOT cover
+-------------------------------------------------------------------------------
+
+This work stands on, and cites, standards and research produced by others. It
+does not relicense that material. The cited standards, frameworks, and papers
+remain the property of their respective publishers and are governed by their own
+terms. They include, among others:
+
+  - NIST — AI Risk Management Framework, SP 800-53, and the 800-series
+  - OWASP — Top 10 for LLM Applications, MCP Top 10, Non-Human Identity Top 10,
+    and the cheat sheets
+  - MITRE — ATLAS, ATT&CK
+  - CISA / NCSC — Guidelines for Secure AI System Development
+  - Cloud Security Alliance — MAESTRO
+  - ISO / IEC — 27001 and related standards
+  - FinOps Foundation — FinOps for AI
+  - the peer-reviewed research cited for specific empirical claims
+
+Full attribution is in the Reference Library: reference/sources.md
+
+-------------------------------------------------------------------------------
+How to attribute this work
+-------------------------------------------------------------------------------
+
+  "AI Guardrails Maturity Model" by Mike Gualtieri
+  (https://www.mike-gualtieri.com), licensed under CC BY 4.0.
+
+When you adapt the work, indicate that changes were made.
+
+Questions about this work can be directed to mike.gualtieri@gmail.com.

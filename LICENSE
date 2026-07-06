@@ -1,0 +1,61 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2026 Mike Gualtieri
+https://www.mike-gualtieri.com · mike.gualtieri@gmail.com
+
+This work — the AI Guardrails Maturity Model, including its leveling, its
+consolidation of guidance into a non-redundant catalog, and all original prose
+in this repository — is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+
+  - Share — copy and redistribute the material in any medium or format.
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    including commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license
+terms.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your
+    use.
+
+  - No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license
+    permits.
+
+The full, canonical legal text of this license is published by Creative Commons
+and is incorporated here by reference:
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+A human-readable summary (which is not a substitute for the license) is at:
+
+  https://creativecommons.org/licenses/by/4.0/
+
+-------------------------------------------------------------------------------
+Scope of this license — please read
+-------------------------------------------------------------------------------
+
+This license applies to the original contribution of this work: the maturity
+leveling (the sequencing of controls across Levels 1-4), the consolidation of
+overlapping industry guidance into a single non-redundant catalog, the
+AI-specificity discipline, and the prose written for this repository.
+
+It does NOT relicense the third-party standards, frameworks, and research this
+work cites and builds upon. Those materials — including publications from NIST,
+OWASP, MITRE, CISA/NCSC, the Cloud Security Alliance, ISO/IEC, the FinOps
+Foundation, and cited peer-reviewed research — remain the property of their
+respective publishers and are governed by their own terms. See NOTICE and the
+Reference Library (reference/sources.md) for attribution.
+
+When you reuse or adapt this work, attribute it as:
+
+  "AI Guardrails Maturity Model" by Mike Gualtieri
+  (https://www.mike-gualtieri.com), licensed under CC BY 4.0.
