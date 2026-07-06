@@ -154,27 +154,3 @@ Section 8 – Interpretation.
 Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
-===============================================================================
-
-Copyright (c) 2026 Mike Gualtieri
-https://www.mike-gualtieri.com · mike.gualtieri@gmail.com
-
-This work — the "AI Guardrails Maturity Model," including its maturity leveling,
-its consolidation of guidance into a non-redundant catalog, its AI-specificity
-discipline, and all original prose in this repository — is licensed under the
-Creative Commons Attribution 4.0 International License (CC BY 4.0), the full text
-of which appears above.
-
-SPDX-License-Identifier: CC-BY-4.0
-
-Scope: This license covers the original contribution described above. It does NOT
-relicense the third-party standards, frameworks, and research this work cites and
-builds upon (including publications from NIST, OWASP, MITRE, CISA/NCSC, the Cloud
-Security Alliance, ISO/IEC, the FinOps Foundation, and cited peer-reviewed
-research), which remain the property of their respective publishers. See NOTICE
-and reference/sources.md for attribution.
-
-Attribute this work as:
-  "AI Guardrails Maturity Model" by Mike Gualtieri
-  (https://www.mike-gualtieri.com), licensed under CC BY 4.0.
