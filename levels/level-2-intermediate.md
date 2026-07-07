@@ -27,8 +27,10 @@ An organization at Level 2 can affirmatively say everything from [Level 1](level
   anything the agent executes runs in an isolated, ephemeral environment with no path to the host or
   production.
 - **A human approves consequential actions, and the whole thing can be turned off quickly.**
-  Irreversible or high-impact actions require explicit human confirmation, backed by a tested,
-  system-scoped kill switch that rapidly disables a tool, capability, or deployment.
+  Irreversible or high-impact actions require explicit human confirmation, and an agent that exceeds
+  a set limit on how many actions it may take stops and escalates to a human rather than continuing
+  on its own. This is backed by a tested, system-scoped kill switch that rapidly disables a tool,
+  capability, or deployment.
 - **What is connected is vetted before it is connected,** and **AI spend is visible.** Third-party
   tools, MCP servers, plugins, and libraries are treated as trust boundaries and vetted at
   integration time, and AI spend is observable per request, workflow, or agent rather than discovered
@@ -72,7 +74,7 @@ Thirteen controls, grouped by category. Each links to its detail page.
 
 ### [Human-in-the-Loop (HITL) Controls](../controls/hitl/README.md)
 
-- [Human-in-the-loop approval for consequential actions](../controls/hitl/human-approval-consequential-actions.md) — *Agentic · Low* — first appears here as a binary confirmation gate (matures to risk-tiered approval at [L3](level-3-advanced.md)).
+- [Human-in-the-loop approval for consequential actions](../controls/hitl/human-approval-consequential-actions.md) — *Agentic · Low* — first appears here as a binary confirmation gate plus a limit on how many actions an agent may take before it stops and escalates (matures to risk-tiered approval at [L3](level-3-advanced.md)).
 - [Kill switch (rapid capability / deployment disable)](../controls/hitl/kill-switch.md) — *Agentic · Low* — rapid, system-scoped emergency disable.
 
 ### [Supply Chain & Model Integrity](../controls/supply-chain/README.md)

@@ -12,5 +12,5 @@ You will not find a separate "mid-task interruption / termination" control (paus
 
 ## Controls in this category
 
-- **[7.1 Human-in-the-loop approval for consequential actions](human-approval-consequential-actions.md)** — `[Agentic / L2→L3 / Low]`. A human approves before an agent takes a consequential action, with the degree of oversight matched to the risk of the action — a binary confirmation gate at L2, graduating to risk-tiered approval at L3.
+- **[7.1 Human-in-the-loop approval for consequential actions](human-approval-consequential-actions.md)** — `[Agentic / L2→L3 / Low]`. A human approves before an agent takes a consequential action, with the degree of oversight matched to the risk of the action — a binary confirmation gate at L2, graduating to risk-tiered approval at L3. The L2 floor also sets a limit on how many actions an agent may take before it must stop and escalate to a human.
 - **[7.2 Kill switch (rapid capability / deployment disable)](kill-switch.md)** — `[Agentic / L2 / Low]`. The ability to rapidly disable a tool, capability, or an entire agent deployment — a system-scoped emergency stop for when something is wrong at scale.
